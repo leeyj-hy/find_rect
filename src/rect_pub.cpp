@@ -339,7 +339,7 @@ int main(int argc, char** argv)
 
 
 
-/*
+
 
 Mat src_gray;
 Mat dst, detected_edges;
@@ -461,7 +461,7 @@ int main(int argc, char** argv)
 	return 0;
 }
 
-*/
+
 
 
 
