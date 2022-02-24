@@ -1,0 +1,5 @@
+<launch>
+
+    <node name = "find_rect" pkg = "find_rect" type = "find_rect" output = "screen"/>
+    
+</launch>
